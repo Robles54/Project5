@@ -2,15 +2,14 @@
 
 Author: Christopher Robles
 
-## Description
+## DESCRIPTION
 
-DESCRIPTION:
 My project is a store application that improved the GUI's that I've developed within the last 4 projects. This time around the servers weren't mainly touched (unless it was to fix existing issues with multithreading). As a result of these improvements, there were a couple of new classes, but otherwise less code overall, which made my code a lot more simply to read and debug.
 
-KNOWN ISSUES:
+## KNOWN ISSUES
 Currently the chat feature in the program does not work, it was an issue from the previous version that was carried over, as a result, I disabled the Chat function from the Login Scene and Customer Scene because the opening of those GUI's would've resulted in a random socket closure, which would be determental to the rest of the project. The GUI can still be accessed from the setting scene which doesn't cause the bug, but still doesn't function as intended.
 
-SCREENSHOTS:
+## SCREENSHOTS
 <img width="553" alt="Screenshot 2024-11-19 at 9 14 59 PM" src="https://github.com/user-attachments/assets/9c28c35f-f5a3-4a21-a8ca-e5bc5191979e">
 <img width="549" alt="Screenshot 2024-11-19 at 9 15 17 PM" src="https://github.com/user-attachments/assets/e297be61-cbc7-473b-830e-3a9596a2d4c8">
 <img width="549" alt="Screenshot 2024-11-19 at 9 15 45 PM" src="https://github.com/user-attachments/assets/27fe7b98-2ea0-40b7-9b35-492d37925ae8">
