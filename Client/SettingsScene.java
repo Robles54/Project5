@@ -1,5 +1,4 @@
-//Modify Chris         Project 4
-//Allows user to change socket settings for host and port. NEW: Add “Chat” button
+//Author: Christopher Robles
 //package application;
 
 import javafx.geometry.Pos;
