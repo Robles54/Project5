@@ -1,5 +1,4 @@
-//Modify Maria & Chris        Project 4      
-//(Superclass for an account. Similar to Project #3. New: variable “id”.)
+//Author: Christopher Robles
 //package application;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
