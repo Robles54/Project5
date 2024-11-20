@@ -1,5 +1,4 @@
-// From  Project #3
-//package application;
+//Author: Christopher Robles
 
 import javafx.geometry.Pos;
 import javafx.scene.control.*;
