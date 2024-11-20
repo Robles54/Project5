@@ -1,5 +1,4 @@
-// New Chris           Project 4 
-// Utility program for reading XML file with inventory data
+// Author: Christopher Robles
 //package application;
 
 import java.io.FileNotFoundException;
