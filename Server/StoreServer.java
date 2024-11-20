@@ -1,5 +1,4 @@
-//Modify Maria & chris    Project 4 
-//Application class that controls ServerSocket.
+//Author: Christopher Robles
 //package application;
 
 import java.net.*;
