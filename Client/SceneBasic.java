@@ -1,5 +1,4 @@
-// From  Project #3
-//package application;
+// Author: Christopher Robles
 
 import java.io.PrintWriter;
 import java.net.Socket;
