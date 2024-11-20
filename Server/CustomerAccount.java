@@ -1,5 +1,4 @@
-// Modify Chris               Project 4   
-// Subclass for customer account. New: variable “id”.
+//Author: Christopher Robles
 //package application;
 
 public class CustomerAccount extends Account {
