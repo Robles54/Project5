@@ -1,4 +1,4 @@
-//New Maria Galarza         Project 4
+//Author: Christopher Robles
 //package application;
 
 import java.io.FileNotFoundException;
