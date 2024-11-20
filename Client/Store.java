@@ -1,5 +1,4 @@
-// Modify Maria & Chris   Project 4
-// GUI application class that launches the application.
+// Author: Christopher Robles
 //package application;
 
 import javafx.application.Application;
