@@ -1,5 +1,4 @@
-//Modify Maria & Chris        Project 4  
-//Menu for customer. Formerly ClientScene. NEW: Add buttons.
+//Author: Christopher Robles
 //package application;
 
 import javafx.scene.control.*;
