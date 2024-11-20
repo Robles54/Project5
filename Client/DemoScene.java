@@ -1,8 +1,4 @@
 // Author: Chris Fietkiewicz. 
-// Provided as a demonstration for required new classes.
-// It can be compiled with Store.java to check for correct
-// method names and parameters. It should compile without errors.
-// NOTE: It is *not* intended to be executed.
 
 public class DemoScene extends SceneBasic{
 	private OutputTable table = new OutputTable("Column #0", "Column #1"); // Create table with 2 columns
