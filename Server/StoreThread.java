@@ -1,4 +1,4 @@
-//New Maria & Chris     Project 4
+//Author: Christopher Robles
 //package application;
 
 import java.io.BufferedReader;
